@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "name": "GhATmega328PB",
+      "maintainer": "Greenhouse",
+      "websiteURL": "https://www.green-house.co.jp/iot-wireless",
+      "email": "",
+
+      "platforms": [
+        {
+          "name": "GhATmega328PB Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "contributed",
+          "url": "https://github.com/nguyenvietsi/nguyenvietsi.github.io/blob/master/GhATmega328pb.zip",
+          "archiveFileName": "GhATmega328PB.zip",
+          "size": "6290",
+          "boards": [
+            {"name": "GhATmega328PB"}
+          ]
+        }
+      ]
+   	}
+  ]
+}
