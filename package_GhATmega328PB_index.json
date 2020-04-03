@@ -1,0 +1,35 @@
+{
+  "packages":
+  [
+    {
+      "name": "GhATmega328pb",
+      "maintainer": "Green House ATmega328pb",
+      "websiteURL": "https://www.green-house.co.jp/products/rm-92an/",
+      "email" : "nguyenvietsi3011@gmail.com",
+      "platforms":
+      [
+        {
+          "name": "GhATmega328PB",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/nguyenvietsi/nguyenvietsi.github.io/blob/master/GhATmega328pb.zip",
+          "archiveFileName": "GhATmega328pb.zip",
+          "checksum": "SHA-256:84a0b201d513426c1273d768a9452ad120bb9c0007428d63e17c1923c8ffa0b6",
+          "size": "6428",
+          "boards": [
+            {
+              "name": "Green House ATmega328p"
+            }
+          ],
+          "toolsDependencies":
+          [
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
