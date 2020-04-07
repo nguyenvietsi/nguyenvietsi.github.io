@@ -14,14 +14,16 @@
           "version": "1.1.1",
           "category": "contributed",
           "help": {"online": "https://www.green-house.co.jp/iot-wireless"},
-          "url": "https://github.com/nguyenvietsi/nguyenvietsi.github.io/blob/master/GHATmega328PB-1.1.1.zip",
+          "url": "https://github.com/nguyenvietsi/nguyenvietsi.github.io/raw/master/GHATmega328PB-1.1.1.zip",
           "archiveFileName": "GHATmega328PB-1.1.1.zip",
           "size": "35764",
           "boards": [
             {"name": "GhATmega328PB"}
           ]
         }
-      ]
+      ],
+      "tools": [
+        ]
     }
   ]
 }
