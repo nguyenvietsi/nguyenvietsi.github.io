@@ -18,7 +18,7 @@
           "archiveFileName": "GHATmega328PB-1.1.1.zip",
           "size": "35764",
           "boards": [
-            {"name": "GH ATmega328PB"}
+            {"name": "GHATmega328PB"}
           ]
         }
       ]
